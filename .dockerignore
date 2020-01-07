@@ -1,0 +1,3 @@
+# 忽略打包进docker镜像到文件
+.git
+node_modules
