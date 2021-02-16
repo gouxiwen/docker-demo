@@ -1,4 +1,4 @@
-//  将应用构建成docker镜像(未完成)
+//  将应用构建成docker镜像
 // 1.在根目录下新建Dockerfile文件，写入该应用到配置信息
 // 2.执行 docker build -t  '镜像名称' DockerfilePath 命令进行构建镜像
 // 3.构建完成后执行 docker images 查看镜像列表，检查是否构建成功

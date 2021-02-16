@@ -1,0 +1,1 @@
+运行 docker build -t mynodeapp . 构建镜像
